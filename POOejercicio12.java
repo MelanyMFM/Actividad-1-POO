@@ -5,7 +5,7 @@ package ejercicio.pkg12;
 retención en la fuente es del 12,5% del salario bruto. Se desea saber cuál es el salario bruto,
 la retención en la fuente y el salario neto del trabajador.
  */
-public class Ejercicio12 {
+public class POOejercicio12 {
     public static void main(String[] args) {
         int horas_trabajadas = 48;
         int salarioxhora = 5000;
